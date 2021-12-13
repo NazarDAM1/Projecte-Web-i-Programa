@@ -19,7 +19,7 @@ import java.util.Scanner;
 import java.time.LocalDate;
 
 
-public class provamenu3 {
+public class menu {
 
     // Aquí estic crean variables estàtiques per tenir accés en aquestes variables des de qualsevol mètode
 
